@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DEVMYTH123 (Devarsh Parmar)
 - 👀 I’m interested in Cyber Security, and Cloud applications.
 - 🌱 I’m currently learning Cloud/DevOps
-- 💞️ I’m looking to work on any blue hat cyber security project or intern.
+- 💞️ I’m looking to work on any blue team cyber security project or intern.
 - 📫 How to reach me : You can defo contact me at devarshhp14@gmail.com
